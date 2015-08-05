@@ -32,7 +32,14 @@ On this page we will regularly post:
 
   * the minutes of our previous meetings
 
+test
+
+
+    title : My Blog =)
+    
+    author :
       name : Name Lastname
       email : blah@email.test
       github : username
       twitter : username
+
