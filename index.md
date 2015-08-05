@@ -11,7 +11,8 @@ To joing our mailing list please write to <description.logicians.of.eis@gmail.co
 
 ## Initial Meeting
 
-The tentative date for our initial meeting is 
+  * We will be discussing *Chapter I* of [THE DESCRIPTION LOGIC HANDBOOK](http://cdn.preterhuman.net/texts/science_and_technology/The%20Description%20Logic%20Handbook%20-%20Theory,%20Implementation%20and%20Applications%20(2003).pdf), i.e. pages 1-46.
+
 	
 	Date:
 	Thursday, August 13th 2015
@@ -20,8 +21,6 @@ The tentative date for our initial meeting is
 	Location:
 	Room `A110`
 	Römerstraße 164
-
-We will be discussing *Chapter I* of [THE DESCRIPTION LOGIC HANDBOOK](http://cdn.preterhuman.net/texts/science_and_technology/The%20Description%20Logic%20Handbook%20-%20Theory,%20Implementation%20and%20Applications%20(2003).pdf), i.e. pages 1-46.
 
 
 ## Welcome to the EIS Knowledge Sharing Group on Description Logic
